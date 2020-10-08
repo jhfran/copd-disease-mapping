@@ -15,4 +15,4 @@ This was an MSc assignment with the purpose of investigating England's hospital 
 - copdobserved.csv and copdexpected.csv are the datasets used for this project
 - shapefile folder containing shapefiles used to create maps
 
-## Report containing recommendations (under Conclusion/Recommendations) can be found on my github page : https://jhfran.github.io/copd
+### Report containing recommendations (within Conclusion/Recommendations section) can be found on my github page : https://jhfran.github.io/copd
